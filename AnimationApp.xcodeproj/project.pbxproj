@@ -14,7 +14,7 @@
 		B3F1C9A22E5AF17E00A12185 /* Exceptions for "AnimationApp" folder in "AnimationApp" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Info.plist,
+				App/Info.plist,
 			);
 			target = B3F1C98F2E5AF17C00A12185 /* AnimationApp */;
 		};
