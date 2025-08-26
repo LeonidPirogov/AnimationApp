@@ -14,22 +14,9 @@
 		B3F1C9902E5AF17C00A12185 /* AnimationApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AnimationApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		B3F1C9A22E5AF17E00A12185 /* Exceptions for "AnimationApp" folder in "AnimationApp" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				App/Info.plist,
-			);
-			target = B3F1C98F2E5AF17C00A12185 /* AnimationApp */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		B3F1C9922E5AF17C00A12185 /* AnimationApp */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				B3F1C9A22E5AF17E00A12185 /* Exceptions for "AnimationApp" folder in "AnimationApp" target */,
-			);
 			path = AnimationApp;
 			sourceTree = "<group>";
 		};
